@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thedexless/thedexless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Daniel
 
-Here are some ideas to get you started:
+**AI agents · health-tech · self-hosted infrastructure**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### Open source
+
+- **[clipboard-vision-mcp](https://github.com/thedexless/clipboard-vision-mcp)** — give vision to text-only LLMs (DeepSeek, GLM…) via a clipboard-first MCP server
+- **[newtab-dashboard](https://github.com/thedexless/newtab-dashboard)** — personal new-tab extension: Feedly reader, infra status & focus widgets
+
+### Currently building
+
+Multi-provider research orchestrators, a private medical-AI companion, agent fleet infrastructure — mostly private repos.

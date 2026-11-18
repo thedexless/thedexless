@@ -9,7 +9,7 @@
 ### Open source
 
 - **[clipboard-vision-mcp](https://github.com/thedexless/clipboard-vision-mcp)** — give vision to text-only LLMs (DeepSeek, GLM…) via a clipboard-first MCP server
-- **[newtab-dashboard](https://github.com/thedexless/newtab-dashboard)** — personal new-tab extension: Feedly reader, infra status & focus widgets
+- **[newtab-dashboard](https://github.com/thedexless24/newtab-dashboard)** — personal new-tab extension: Feedly reader, infra status & focus widgets
 
 ### Currently building
 
